@@ -8,3 +8,98 @@ img {
   display: block;
   max-width: 100%;
 }
+h1{
+font-family: Amboy-Black, 'Amboy ';
+}
+p{
+ font-family: Poppins-SemiBold, Poppins;
+ color: rgb(0, 0, 0);
+   }
+h4{
+ font-family: Poppins-SemiBold, Poppins;
+   }
+      
+   h2 {
+    font-family: Amboy-Black, 'Amboy ';
+    color: white;
+    border-radius: 10px;
+    background: rgb(6, 6, 6);
+    padding-top: 5px;
+    padding-right: auto;
+    padding-bottom: 5px;
+    padding-left: auto;
+    text-align: center;
+  }
+  p {
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  h5{
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  body{
+    border-radius: 14px;
+      border-width: 5px;
+      border-style: solid;
+      border-color: #BE1622;
+      padding-top: 10px;
+      padding-right: 110px;
+      padding-bottom: 10px;
+      padding-left: 110px;
+}
+    
+  p {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #BE1622;
+  }
+
+  img {
+    border-radius: 10px;
+    background: #ffffff;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+  }
+  .badge {
+    border-radius: 15px;
+    color: white;
+  }
+  
+  .badge-instagram {
+    background:#BE1622;
+    text-align: center;
+  }
+  
+  .badge-facebook {
+    background: #BE1622;
+    text-align: center;
+  }
+  
+  h2:hover {
+    background: #BE1622;
+  }
+
+ .realisateur .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+ .Musique-du-film .container {
+  display: flex;
+  flex-direction:row-reverse;
+  justify-content: center;
+}
+.A-history-of-violence .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
